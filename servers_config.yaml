@@ -1,0 +1,6 @@
+- name: container-security
+  box: bento/ubuntu-18.04
+  ram: 2048
+  cpu: 2
+  network_type: private
+  ip: 172.16.102.10
